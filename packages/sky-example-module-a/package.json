@@ -10,5 +10,6 @@
   "license": "ISC",
   "devDependencies": {
     "sky-example-module-core": "^0.0.1"
-  }
+  },
+  "gitHead": "51709d945c9656bdac40a0662d7543a4e7683c19"
 }
